@@ -8,3 +8,4 @@ Meetup but for runners
 - Added the first model - club
 - Set up repository and DTO for club model
 - Added ClubService interface and ClubServiceImpl class for mapping of ClubDTO and Club
+- Added controller for club and very simple view that uses BootstrapCDN

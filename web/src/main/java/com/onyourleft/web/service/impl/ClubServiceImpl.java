@@ -5,10 +5,12 @@ import com.onyourleft.web.models.Club;
 import com.onyourleft.web.repository.ClubRepository;
 import com.onyourleft.web.service.ClubService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.stream.Collectors;
 
+@Service
 public class ClubServiceImpl implements ClubService {
 
     private ClubRepository clubRepository;
