@@ -6,3 +6,4 @@ Meetup but for runners
 - Added Spring Web, Spring Boot Dev Tools, Lombok, Thymeleaf, Spring Data JPA, and PostgreSQL Driver from Spring Initializer
 - Set up database connection to Postgres on localhost and ensured app runs successfully
 - Added the first model - club
+- Set up repository and DTO for club model
