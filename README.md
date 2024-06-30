@@ -7,3 +7,4 @@ Meetup but for runners
 - Set up database connection to Postgres on localhost and ensured app runs successfully
 - Added the first model - club
 - Set up repository and DTO for club model
+- Added ClubService interface and ClubServiceImpl class for mapping of ClubDTO and Club
